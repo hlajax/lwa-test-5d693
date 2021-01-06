@@ -14,7 +14,8 @@ sections:
       - label: Learn More
         url: /features
         style: secondary
-    image: images/classic/hero.png
+    image: >-
+      images/funny-african-joyful-lady-jumping-smiling-isolated-removebg-preview.png
     media_position: left
     media_width: fifty
     align: left
